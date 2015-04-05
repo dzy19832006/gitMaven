@@ -4,7 +4,4 @@ public class SecondGitMaven {
 	public void masterSecond2(){
 		
 	}
-	public void masterSecond2(){
-		
-	}
 }
