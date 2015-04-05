@@ -5,6 +5,6 @@ public class FirstGitMaven {
 		System.out.println(1);
 	}
 	public void masterFirst2(){
-		System.out.println("我是分支");
+		System.out.print("我是分支+我假装是小伙伴");
 	}
 }
