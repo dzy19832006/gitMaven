@@ -4,4 +4,7 @@ public class FirstGitMaven {
 	public void masterFirst(){
 		
 	}
+	public void masterFirst2(){
+		
+	}
 }
